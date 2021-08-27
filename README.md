@@ -2,7 +2,7 @@
 <h3 align="center">Currently growing my skillset in DSA and Web Development :)</h3>
 <h3 align="left">Let's connect here:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sachi-gupta-ba7b9b190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/sachi-gupta-ba7b9b190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="30"></a>
 </p>  
 <!--
 **sachigupta22/sachigupta22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
