@@ -1,4 +1,5 @@
-### Hi!
+### Hi, I am Sachi Gupta!
+I am an enthusiastic student pursuing engineering in IIT(BHU), Varanasi.
 
 <!--
 **sachigupta22/sachigupta22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
