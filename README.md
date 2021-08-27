@@ -1,6 +1,5 @@
-### Hi, I am Sachi Gupta!
-<h> </h>
-Getting started with my DEV journey :)
+<h1 align="center">Hi, I am Sachi Gupta!</h1>
+<h3 align="center">Currently growing my skillset in DSA and Web Development:)</h3>
 <!--
 **sachigupta22/sachigupta22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
